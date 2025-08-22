@@ -6,4 +6,3 @@
 * comer
 * montar en moto
 * ver series
-* ver polnito
