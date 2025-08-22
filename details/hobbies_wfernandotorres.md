@@ -1,5 +1,5 @@
 ** hobbies
 
-*escuchar musica
-*jugar futbol
-*jugar videojuegos
+* escuchar musica
+* jugar futbol
+* jugar videojuegos
